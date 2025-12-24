@@ -17,7 +17,7 @@ Code Push → Jenkins → Docker Hub → Update Manifests
                                          ↓
                                   Argo Rollouts
                                          ↓
-                           Preview (Test) → Approve → Production
+                           Preview (Test) → Approve → Deployment
 ```
 
 ## 📂 Repository Structure
