@@ -1,0 +1,6 @@
+[submodule "argo-bluegreen-manifests"]
+	path = argo-bluegreen-manifests
+	url = https://github.com/saimanas17/argo-bluegreen-manifests/
+[submodule "argo-bluegreen-app"]
+	path = argo-bluegreen-app
+	url = https://github.com/saimanas17/argo-bluegreen-app/
