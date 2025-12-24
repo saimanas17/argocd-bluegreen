@@ -33,7 +33,7 @@ bluegreen-deployment-demo/
 
 ```bash
 # Clone with submodules
-git clone --recursive https://github.com/saimanas17/bluegreen-deployment-demo.git
+git clone --recursive https://github.com/saimanas17/argocd-bluegreen.git
 cd bluegreen-deployment-demo
 ```
 
