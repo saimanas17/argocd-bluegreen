@@ -25,7 +25,7 @@ Code Push → Jenkins → Docker Hub → Update Manifests
 ```
 bluegreen-deployment-demo/
 ├── README.md
-├── nginx-demo/                    # Application code (submodule)
+├── argo-bluegreen-app/            # Application code (submodule)
 └── argo-bluegreen-manifests/      # Kubernetes manifests (submodule)
 ```
 
